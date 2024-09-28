@@ -5,22 +5,22 @@ The HR Analytics Dashboard provides insights into employee presence, work-from-h
 
 ## Key Metrics:
 
-Presence %: The percentage of employees physically present at the office.
+- Presence %: The percentage of employees physically present at the office.
 
-WFH %: The percentage of employees working from home.
+- WFH %: The percentage of employees working from home.
 
-SL %: The percentage of employees on sick leave.
+- SL %: The percentage of employees on sick leave.
 
 ## Features
-Visual Representation of attendance metrics across different time frames, including:
+- Visual Representation of attendance metrics across different time frames, including:
 
-Year, Quarter, Month, and Day breakdown of employee presence, WFH, and SL percentages.
+- Year, Quarter, Month, and Day breakdown of employee presence, WFH, and SL percentages.
        
-Day of the Week Analysis: Presents presence, WFH, and SL percentages for each day of the week.
+- Day of the Week Analysis: Presents presence, WFH, and SL percentages for each day of the week.
 
-Employee-Specific Data: Individual employee records showing their daily attendance status.
+- Employee-Specific Data: Individual employee records showing their daily attendance status.
 
-Interactive Filtering: Users can select specific time periods to view the trends in attendance and WFH.
+- Interactive Filtering: Users can select specific time periods to view the trends in attendance and WFH.
 
 ## Dashboard Components
 1. Presence Insights
@@ -42,3 +42,9 @@ Allows monitoring of employee absences due to illness.
    
 A detailed table showing individual attendance for each employee over specific dates.
 Columns include Presence (P), WFH, and Sick Leave (SL) statuses.
+
+- **Instagram**: https://www.instagram.com/_ash_raza/
+- **LinkedIn**: https://www.linkedin.com/in/ashna-aqeel-raza-ab920a247/
+
+
+Thank you for your support, and I look forward to connecting with you!
